@@ -6,7 +6,7 @@
     <h1>Catálogo de Discos</h1>
      <img src="~/img/logo.png" alt="logo">
     <div class>
-        @foreach (var disco in ((Dictionary<int,Disco>)ViewBag.Discos).Values)
+        @foreach (Disco disco in ViewBag.Discos.Values)
 {
  <div>
                 <div>
@@ -14,7 +14,7 @@
                     <div>
                         <h5>@disco.Titulo</h5>
                         <p>@disco.Artista</p>
-                    <a href='@Url.Action("Detalle", "Home", new { id = @disco.Id })'>Ver Detalles</a>
+                    <a href='@Url.Action("Detalle", "Home", new { Id = disco.Id })'>Ver Detalles</a>
                     </div>
                 </div>
             </div>}

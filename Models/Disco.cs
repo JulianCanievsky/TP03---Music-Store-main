@@ -12,7 +12,7 @@ public class Disco
 
     public Disco(int Id, string titulo, string artista, string productor, string genero, string foto, List<string> temas)
     {
-        Id = this.Id;
+        this.Id = Id;
         Titulo = titulo;
         Artista = artista;
         Productor = productor;

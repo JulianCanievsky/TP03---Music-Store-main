@@ -20,16 +20,18 @@ public class HomeController : Controller
         return View();
     }
 
-public IActionResult Detalle(int Id)
-{
-    Catalogo.InicializarCatalogo();
-    if (Catalogo.Discos.ContainsKey(Id))
-{
-    ViewBag.Disco = Catalogo.Discos[Id];
-    return View();
-}
-else{
-    return NotFound();
-}
-}
+    public IActionResult Detalle(int Id)
+    {
+        if (Catalogo.Discos.ContainsKey(Id))
+        {
+            Console.WriteLine(Id);
+            ViewBag.Disco = Catalogo.Discos[Id];
+            return View();
+        }
+        else
+        {
+            Console.WriteLine("ID incorrecto " + Id);
+            return NotFound();
+        }
+    }
 }
