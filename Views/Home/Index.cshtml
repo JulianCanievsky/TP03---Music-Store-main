@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Catálogo de Discos";
+}
+
+<div>
+    <h1>Catálogo de Discos</h1>
+     <img src="~/img/logo.png" alt="logo">
+    <div class>
+        @foreach (var disco in ((Dictionary<int,Disco>)ViewBag.Discos).Values)
+{
+ <div>
+                <div>
+                    <img src="~/img/@disco.Foto" alt="@disco.Titulo">
+                    <div>
+                        <h5>@disco.Titulo</h5>
+                        <p>@disco.Artista</p>
+                    <a href='@Url.Action("Detalle", "Home", new { id = @disco.Id })'>Ver Detalles</a>
+                    </div>
+                </div>
+            </div>}
+
+        
+    </div>
+</div>

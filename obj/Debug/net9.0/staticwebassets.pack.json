@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\aratud.png",
+      "PackagePath": "staticwebassets\\aratud.png"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\cancionAnimal.jpg",
+      "PackagePath": "staticwebassets\\cancionAnimal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\elAmor.jpg",
+      "PackagePath": "staticwebassets\\elAmor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\laBiblia.jpg",
+      "PackagePath": "staticwebassets\\laBiblia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\laRubia.jpg",
+      "PackagePath": "staticwebassets\\laRubia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\losGatos.jpg",
+      "PackagePath": "staticwebassets\\losGatos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\seminare.jpg",
+      "PackagePath": "staticwebassets\\seminare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julic\\Downloads\\TP03-MusicStore-20250430T104853Z-1-001-20250506T192910Z-1-001\\TP03-MusicStore-20250430T104853Z-1-001\\TP03-MusicStore\\wwwroot\\soloLePidoADios.jpg",
+      "PackagePath": "staticwebassets\\soloLePidoADios.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TP03-MusicStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TP03-MusicStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TP03-MusicStore.props",
+      "PackagePath": "build\\TP03-MusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TP03-MusicStore.props",
+      "PackagePath": "buildMultiTargeting\\TP03-MusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TP03-MusicStore.props",
+      "PackagePath": "buildTransitive\\TP03-MusicStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

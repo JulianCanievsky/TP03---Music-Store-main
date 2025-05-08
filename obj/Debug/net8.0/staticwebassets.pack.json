@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\img\\aratud.png",
+      "PackagePath": "staticwebassets\\img\\aratud.png"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\img\\cancionAnimal.jpg",
+      "PackagePath": "staticwebassets\\img\\cancionAnimal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\img\\elAmor.jpg",
+      "PackagePath": "staticwebassets\\img\\elAmor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\img\\laBiblia.jpg",
+      "PackagePath": "staticwebassets\\img\\laBiblia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\img\\laRubia.jpg",
+      "PackagePath": "staticwebassets\\img\\laRubia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\img\\losGatos.jpg",
+      "PackagePath": "staticwebassets\\img\\losGatos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\img\\seminare.jpg",
+      "PackagePath": "staticwebassets\\img\\seminare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\img\\soloLePidoADios.jpg",
+      "PackagePath": "staticwebassets\\img\\soloLePidoADios.jpg"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\49550988\\Downloads\\TP03---Music-Store-main\\TP03---Music-Store-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP03-MusicStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP03-MusicStore.props",
+      "PackagePath": "build\\TP03-MusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP03-MusicStore.props",
+      "PackagePath": "buildMultiTargeting\\TP03-MusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP03-MusicStore.props",
+      "PackagePath": "buildTransitive\\TP03-MusicStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

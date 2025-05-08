@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Detalles";
+     
+}
+<div class>
+    <div>
+        <div>
+            <img src="~/img/@ViewBag.Disco.Foto" alt="foto">
+        </div>
+        <div>
+            <h1>@ViewBag.Disco.Titulo</h1>
+            <h3>@ViewBag.Disco.Artista</h3>
+            <p>Productor: @ViewBag.Disco.Productor</p>
+            <p>Género: @ViewBag.Disco.Genero</p>
+            
+            <h4>Temas:</h4>
+            <ul>
+                @foreach (var tema in ViewBag.Disco.Temas)
+                {
+                    <li>
+
+                    @tema
+                    </li>
+                }
+            </ul>
+            
+            <div>
+                <a href='@Url.Action("Index", "Home")' >Volver al Catálogo</a>
+            </div>
+        </div>
+    </div>
+</div> 
