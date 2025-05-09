@@ -1,9 +1,8 @@
-
-
 html {
   font-size: 14px;
   min-height: 100%;
 }
+
 
 @media (min-width: 768px) {
   html {
@@ -11,10 +10,13 @@ html {
   }
 }
 
+
 body {
   margin: 10px;
   padding: 200px;
 }
+
+
 
 
 footer {
@@ -23,6 +25,7 @@ footer {
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
 }
+
 
 body {
     margin: 0;
@@ -33,22 +36,30 @@ body {
 
 
 
+
+
+
 .Catalogo h1 {
   font-family: fantasy;
   margin-bottom: 10px;
    font-size:xx-large;
 }
 
+
 .Catalogo img {
     width: 150px;
-    margin-bottom: 20px;
-}
+
+
+
+
+
 
 .Albums {
     margin: 30px;
     align-items: center;
     padding: 20px;
 }
+
 
 .Albums div {
     background-color: orange;
@@ -59,6 +70,7 @@ body {
     margin: 1%;
 }
 
+
 .Albums img {
     width: 100%;
     border-radius: 8px;
@@ -66,6 +78,7 @@ body {
 .Albums h3 {
     color: purple
 }
+
 
 .Albums a {
     text-decoration: none;
