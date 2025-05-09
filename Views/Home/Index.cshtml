@@ -1,23 +1,35 @@
 ﻿@{
-    ViewData["Title"] = "Catálogo de Discos";
-}
-<div>
-    <h1>Catálogo de Discos</h1>
-     <img src="~/img/logo.png" alt="logo">
-    <div class>
-        @foreach (Disco disco in ViewBag.Discos.Values)
-{
- <div>
-                <div>
-                    <img src="~/img/@disco.Foto" alt="@disco.Titulo">
-                    <div>
-                        <h5>@disco.Titulo</h5>
-                        <p>@disco.Artista</p>
-                    <a href='@Url.Action("Detalle", "Home", new { Id = disco.Id })'>Ver Detalles</a>
-                    </div>
-                </div>
-            </div>}
+    ViewData["Title"] = "Detalles";
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true">
 
-        
-    </div>
-</div>
+
+}
+<body class="Detalle">
+   
+       
+        <section>
+            <h1 class="Titulo">@ViewBag.Disco.Titulo</h1>
+             <div class="">
+            <img class="imgDestalle" src="~/img/@ViewBag.Disco.Foto" alt="foto">
+        </div>
+            <h2 class="Artista">@ViewBag.Disco.Artista</h2>
+            <h2 class="Temas">Temas:</h2>
+            <ul>
+                @foreach (var tema in ViewBag.Disco.Temas)
+                {
+                    <li>
+                   <h4> @tema </h4>
+                    </li>
+                }
+            </ul>
+            <p>Productor: @ViewBag.Disco.Productor</p>
+            <p>Género: @ViewBag.Disco.Genero</p>
+           
+           
+           
+            <div class="Volver">
+                <a href='@Url.Action("Index", "Home")' >Volver al Catálogo</a>
+            </div>
+        </section>
+   
+</body>
